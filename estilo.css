@@ -1,0 +1,29 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8d7da;
+    color: #721c24;
+    text-align: center;
+    padding: 10px;
+}
+
+.menu {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #cce5ff;
+    padding: 5px;
+    margin-bottom: 5px;
+}
